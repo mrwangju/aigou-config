@@ -2,7 +2,7 @@ server:
   port: 9527
 spring:
   application:
-    name: aigou-zuul-dev
+    name: aigou-zuul-gateway
 eureka:
   client:
     service-url:
