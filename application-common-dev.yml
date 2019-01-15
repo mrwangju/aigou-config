@@ -2,7 +2,7 @@ server:
   port: 8010
 spring:
   application:
-    name: aigou-conmmon
+    name: aigou-common
 eureka:
   client:
     service-url:
