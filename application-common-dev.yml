@@ -1,6 +1,6 @@
 server:
   port: 8010
-  max-http-header-size: 10194304
+  #max-http-header-size: 10194304
   #tomcat:
     #max-http-post-size: 100048576
 spring:
