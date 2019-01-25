@@ -1,8 +1,8 @@
 server:
   port: 8010
-  max-http-header-size: 4048576
+  max-http-header-size: 4048576000
   tomcat:
-    max-http-post-size: 4048576
+    max-http-post-size: 4048576000
 spring:
   application:
     name: aigou-common
